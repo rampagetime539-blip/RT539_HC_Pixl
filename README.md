@@ -8,6 +8,9 @@ This project is a clean, minimal personal landing page for Rampage, a Class 10 s
 
 ### Screenshots
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d4a29ed-4b53-45ec-9cee-246dd9e7a3ce" />
+
+
 ## Getting Started
 
 ### Dependencies
