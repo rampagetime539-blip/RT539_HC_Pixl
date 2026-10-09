@@ -62,6 +62,6 @@ start index.html
 ```
 
 ### Playable Link
-[Click here to view the page]([https://netlify.app](https://builder-page-539.netlify.app/))
+[Click here to view the page](https://builder-page-539.netlify.app/)
 
 ```
